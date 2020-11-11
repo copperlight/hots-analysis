@@ -1,0 +1,225 @@
+{
+  "date": "2020-10-26",
+  "link": "https://twitch.tv/videos/783015871",
+  "account": "NotFan",
+  "session-statistics": {
+    "starting-rank": "Bronze 5",
+    "ending-rank": "",
+    "wins": 0,
+    "losses": 0,
+    "games": 0
+  },
+  "games": [
+    {
+      "index": 0,
+      "rank": "",
+      "map": "",
+      "hero": "",
+      "talents": "",
+      "win": false,
+      "troll": false,
+      "team": [
+      ],
+      "opposing-team": [
+      ]
+    },
+    {
+      "index": 1,
+      "rank": "Bronze 5",
+      "map": "Hanamura Temple",
+      "hero": "Murky",
+      "talents": "T3321311",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Johanna",
+        "Nazeebo",
+        "Lucio",
+        "Raynor"
+      ],
+      "opposing-team": [
+        "D.Va",
+        "Deckard",
+        "Tyrael",
+        "Nova",
+        "Valla"
+      ]
+    },
+    {
+      "index": 2,
+      "rank": "Bronze 5",
+      "map": "Garden of Terror",
+      "hero": "Nova",
+      "talents": "T112122",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Johanna",
+        "Greymane",
+        "Varian",
+        "Imperius"
+      ],
+      "opposing-team": [
+        "Zarya",
+        "Tracer",
+        "D.Va",
+        "Lunara",
+        "Lt. Morales"
+      ]
+    },
+    {
+      "index": 3,
+      "rank": "Bronze 4",
+      "map": "Braxis Holdout",
+      "hero": "Probius",
+      "talents": "T323222",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Johanna",
+        "Li-Ming",
+        "Imperius",
+        "Deckard"
+      ],
+      "opposing-team": [
+        "Artanis",
+        "Thrall",
+        "Muradin",
+        "Lunara",
+        "Lt. Morales"
+      ]
+    },
+    {
+      "index": 4,
+      "rank": "Bronze 4",
+      "map": "Alterac Pass",
+      "hero": "Valla",
+      "talents": "T113122",
+      "win": true,
+      "troll": true,
+      "team": [
+        "Zeratul",
+        "Stitches",
+        "Kharazim",
+        "Li-Ming"
+      ],
+      "opposing-team": [
+        "Auriel",
+        "Nazeebo",
+        "E.T.C.",
+        "Kael'thas",
+        "Anub'arak"
+      ]
+    },
+    {
+      "index": 5,
+      "rank": "Bronze 3",
+      "map": "Towers of Doom",
+      "hero": "Lt. Morales",
+      "talents": "T332233",
+      "win": false,
+      "troll": false,
+      "team": [
+        "D.Va",
+        "Abathur",
+        "Murky",
+        "Greymane"
+      ],
+      "opposing-team": [
+        "Yrel",
+        "Raynor",
+        "The Butcher",
+        "Valla",
+        "Tassadar"
+      ]
+    },
+    {
+      "index": 6,
+      "rank": "Bronze 4",
+      "map": "Tomb of the Spider Queen",
+      "hero": "Gazlowe",
+      "talents": "T2111223",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Raynor",
+        "Muradin",
+        "Varian",
+        "Alexstrasza"
+      ],
+      "opposing-team": [
+        "Li-Ming",
+        "Tassadar",
+        "Li Li",
+        "Johanna",
+        "Sonya"
+      ]
+    },
+    {
+      "index": 7,
+      "rank": "Bronze 3",
+      "map": "Infernal Shrines",
+      "hero": "Probius",
+      "talents": "T1212222",
+      "win": false,
+      "troll": true,
+      "team": [
+        "Diablo",
+        "Anduin",
+        "Sgt. Hammer",
+        "Kael'thas"
+      ],
+      "opposing-team": [
+        "Jaina",
+        "Malfurion",
+        "D.Va",
+        "Muradin",
+        "Cassia"
+      ]
+    },
+    {
+      "index": 8,
+      "rank": "Bronze 3",
+      "map": "Braxis Holdout",
+      "hero": "Muradin",
+      "talents": "T112221",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Cassia",
+        "Gazlowe",
+        "Mei",
+        "Li Li"
+      ],
+      "opposing-team": [
+        "Nova",
+        "Qhira",
+        "Murky",
+        "Sylvanas",
+        "Genji"
+      ]
+    },
+    {
+      "index": 9,
+      "rank": "Bronze 3",
+      "map": "Dragon Shire",
+      "hero": "Ragnaros",
+      "talents": "T323",
+      "win": false,
+      "troll": false,
+      "team": [
+        "Lunara",
+        "Mei",
+        "Cassia",
+        "Alexstrasza"
+      ],
+      "opposing-team": [
+        "Diablo",
+        "Tracer",
+        "Kael'thas",
+        "Brightwing",
+        "Artanis"
+      ]
+    }
+  ]
+}
