@@ -2,13 +2,6 @@
   "date": "2020-10-26",
   "link": "https://twitch.tv/videos/783015871",
   "account": "NotFan",
-  "session-statistics": {
-    "starting-rank": "Bronze 5",
-    "ending-rank": "",
-    "wins": 0,
-    "losses": 0,
-    "games": 0
-  },
   "games": [
     {
       "index": 0,
@@ -204,8 +197,8 @@
       "rank": "Bronze 3",
       "map": "Dragon Shire",
       "hero": "Ragnaros",
-      "talents": "T323",
-      "win": false,
+      "talents": "T3231234",
+      "win": true,
       "troll": false,
       "team": [
         "Lunara",
@@ -219,6 +212,19 @@
         "Kael'thas",
         "Brightwing",
         "Artanis"
+      ]
+    },
+    {
+      "index": 10,
+      "rank": "",
+      "map": "",
+      "hero": "",
+      "talents": "",
+      "win": false,
+      "troll": false,
+      "team": [
+      ],
+      "opposing-team": [
       ]
     }
   ]
