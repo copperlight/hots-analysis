@@ -5,6 +5,8 @@
   "games": [
     {
       "index": 0,
+      "start-time": "",
+      "end-time": "",
       "rank": "",
       "map": "",
       "hero": "",
@@ -18,10 +20,12 @@
     },
     {
       "index": 1,
+      "start-time": "00:17:35",
+      "end-time": "00:38:32",
       "rank": "Bronze 5",
       "map": "Hanamura Temple",
       "hero": "Murky",
-      "talents": "T3321311",
+      "talents": "3-3-2-1-3-1-1",
       "win": true,
       "troll": false,
       "team": [
@@ -40,10 +44,12 @@
     },
     {
       "index": 2,
+      "start-time": "00:44:07",
+      "end-time": "01:00:06",
       "rank": "Bronze 5",
       "map": "Garden of Terror",
       "hero": "Nova",
-      "talents": "T112122",
+      "talents": "1-1-2-1-2-2",
       "win": true,
       "troll": false,
       "team": [
@@ -62,10 +68,12 @@
     },
     {
       "index": 3,
+      "start-time": "01:05:30",
+      "end-time": "01:25:20",
       "rank": "Bronze 4",
       "map": "Braxis Holdout",
       "hero": "Probius",
-      "talents": "T323222",
+      "talents": "3-2-3-2-2-2",
       "win": true,
       "troll": false,
       "team": [
@@ -84,10 +92,12 @@
     },
     {
       "index": 4,
+      "start-time": "01:31:35",
+      "end-time": "01:46:18",
       "rank": "Bronze 4",
       "map": "Alterac Pass",
       "hero": "Valla",
-      "talents": "T113122",
+      "talents": "1-1-3-1-2-2",
       "win": true,
       "troll": true,
       "team": [
@@ -106,10 +116,12 @@
     },
     {
       "index": 5,
+      "start-time": "01:52:12",
+      "end-time": "02:08:35",
       "rank": "Bronze 3",
       "map": "Towers of Doom",
       "hero": "Lt. Morales",
-      "talents": "T332233",
+      "talents": "3-3-2-2-3-3",
       "win": false,
       "troll": false,
       "team": [
@@ -128,10 +140,12 @@
     },
     {
       "index": 6,
+      "start-time": "02:15:48",
+      "end-time": "02:36:42",
       "rank": "Bronze 4",
       "map": "Tomb of the Spider Queen",
       "hero": "Gazlowe",
-      "talents": "T2111223",
+      "talents": "2-1-1-1-2-2-3",
       "win": true,
       "troll": false,
       "team": [
@@ -150,10 +164,12 @@
     },
     {
       "index": 7,
+      "start-time": "02:41:50",
+      "end-time": "03:12:20",
       "rank": "Bronze 3",
       "map": "Infernal Shrines",
       "hero": "Probius",
-      "talents": "T1212222",
+      "talents": "1-2-1-2-2-2-2",
       "win": false,
       "troll": true,
       "team": [
@@ -172,10 +188,12 @@
     },
     {
       "index": 8,
+      "start-time": "03:18:34",
+      "end-time": "03:32:38",
       "rank": "Bronze 3",
       "map": "Braxis Holdout",
       "hero": "Muradin",
-      "talents": "T112221",
+      "talents": "1-1-2-2-2-1",
       "win": true,
       "troll": false,
       "team": [
@@ -194,10 +212,12 @@
     },
     {
       "index": 9,
+      "start-time": "03:37:57",
+      "end-time": "04:05:45",
       "rank": "Bronze 3",
       "map": "Dragon Shire",
       "hero": "Ragnaros",
-      "talents": "T3231234",
+      "talents": "3-2-3-1-2-3-4",
       "win": true,
       "troll": false,
       "team": [
@@ -216,15 +236,98 @@
     },
     {
       "index": 10,
-      "rank": "",
-      "map": "",
-      "hero": "",
-      "talents": "",
-      "win": false,
+      "start-time": "04:12:57",
+      "end-time": "04:29:21",
+      "rank": "Bronze 3",
+      "map": "Battlefield of Eternity",
+      "hero": "Lucio",
+      "talents": "2-2-2-1-3-1",
+      "win": true,
       "troll": false,
       "team": [
+        "Valla",
+        "Tassadar",
+        "Stitches",
+        "Tyrael"
       ],
       "opposing-team": [
+        "D.Va",
+        "Greymane",
+        "Deckard",
+        "Arthas",
+        "Li-Ming"
+      ]
+    },
+    {
+      "index": 11,
+      "start-time": "04:34:37",
+      "end-time": "04:53:10",
+      "rank": "Bronze 2",
+      "map": "Hanamura Temple",
+      "hero": "The Butcher",
+      "talents": "3-2-1-2-2-2-3",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Garrosh",
+        "Ana",
+        "Tychus",
+        "Tassadar"
+      ],
+      "opposing-team": [
+        "Brightwing",
+        "Xul",
+        "Stitches",
+        "Chromie",
+        "Malthael"
+      ]
+    },
+    {
+      "index": 12,
+      "start-time": "04:58:18",
+      "end-time": "05:17:35",
+      "rank": "Bronze 2",
+      "map": "Volskaya Foundry",
+      "hero": "Li Li",
+      "talents": "3-1-2-2-3-3-2",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Nazeebo",
+        "Xul",
+        "Genji",
+        "Garrosh"
+      ],
+      "opposing-team": [
+        "Uther",
+        "Diablo",
+        "Gazlowe",
+        "Falstad",
+        "Kael'thas"
+      ]
+    },
+    {
+      "index": 13,
+      "start-time": "05:23:23",
+      "end-time": "05:36:25",
+      "rank": "Bronze 2",
+      "map": "Braxis Holdout",
+      "hero": "The Lost Vikings",
+      "talents": "1-3-3-2-2",
+      "win": false,
+      "troll": true,
+      "team": [
+        "Muradin",
+        "Raynor",
+        "Deathwing",
+        "Stukov"
+      ],
+      "opposing-team": [
+        "Thrall",
+        "Lucio",
+        "Gazlowe",
+        "Stitches",
+        "Tychus"
       ]
     }
   ]
