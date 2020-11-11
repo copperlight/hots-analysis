@@ -1,0 +1,22 @@
+{
+  "date": "2020-10-30",
+  "link": "https://twitch.tv/videos/787118051",
+  "account": "NotFan",
+  "games": [
+    {
+      "index": 0,
+      "start-time": "",
+      "end-time": "",
+      "rank": "",
+      "map": "",
+      "hero": "",
+      "talents": "",
+      "win": false,
+      "troll": false,
+      "team": [
+      ],
+      "opposing-team": [
+      ]
+    }
+  ]
+}
