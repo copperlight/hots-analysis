@@ -290,7 +290,7 @@
       "map": "Battlewfield of Eternity",
       "hero": "Ana",
       "talents": "3-2-2-1-3-3-4",
-      "win": false,
+      "win": true,
       "troll": false,
       "team": [
         "Tyrande",
@@ -308,17 +308,26 @@
     },
     {
       "index": 13,
-      "start-time": "",
-      "end-time": "",
+      "start-time": "05:34:23",
+      "end-time": "05:47:06",
       "rank": "Silver 2",
-      "map": "",
-      "hero": "",
-      "talents": "",
-      "win": false,
+      "map": "Hanamura Temple",
+      "hero": "Stitches",
+      "talents": "1-1-3-2-1-2",
+      "win": true,
       "troll": false,
       "team": [
+        "Tychus",
+        "Li-Ming",
+        "Sonya",
+        "Brightwing"
       ],
       "opposing-team": [
+        "Jaina",
+        "Diablo",
+        "Chen",
+        "Anduin",
+        "Zul'jin"
       ]
     }
   ]
