@@ -141,12 +141,12 @@
     {
       "index": 6,
       "start-time": "02:28:07",
-      "end-time": "",
+      "end-time": "02:50:03",
       "rank": "Silver 3",
       "map": "Dragon Shire",
       "hero": "Murky",
-      "talents": "",
-      "win": false,
+      "talents": "3-2-2-1-3-1-4",
+      "win": true,
       "troll": false,
       "team": [
         "Muradin",
@@ -160,6 +160,165 @@
         "Gul'dan",
         "Greymane",
         "Mei"
+      ]
+    },
+    {
+      "index": 7,
+      "start-time": "02:57:00",
+      "end-time": "03:19:12",
+      "rank": "Silver 2",
+      "map": "Towers of Doom",
+      "hero": "Stukov",
+      "talents": "2-2-3-1-3-1-1",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Cassia",
+        "Li Li",
+        "Kael-thas",
+        "Johanna"
+      ],
+      "opposing-team": [
+        "Uther",
+        "Sonya",
+        "Li-Ming",
+        "Arthas",
+        "Leoric"
+      ]
+    },
+    {
+      "index": 8,
+      "start-time": "03:24:28",
+      "end-time": "03:48:03",
+      "rank": "Silver 2",
+      "map": "Volskaya Foundry",
+      "hero": "Ana",
+      "talents": "",
+      "win": false,
+      "troll": true,
+      "team": [
+        "Sonya",
+        "Mephisto",
+        "Cassia",
+        "Diablo"
+      ],
+      "opposing-team": [
+        "Raynor",
+        "Li-Ming",
+        "Li Li",
+        "Muradin",
+        "Malthael"
+      ]
+    },
+    {
+      "index": 9,
+      "start-time": "03:53:17",
+      "end-time": "04:11:03",
+      "rank": "Silver 2",
+      "map": "Tomb of the Spider Queen",
+      "hero": "Stitches",
+      "talents": "3-1-3-2-1-2-4",
+      "win": true,
+      "troll": true,
+      "team": [
+        "Diablo",
+        "Deckard",
+        "The Butcher",
+        "Jaina"
+      ],
+      "opposing-team": [
+        "Cho",
+        "Auriel",
+        "Gall",
+        "Tassadar",
+        "E.T.C."
+      ]
+    },
+    {
+      "index": 10,
+      "start-time": "04:17:47",
+      "end-time": "04:44:17",
+      "rank": "Silver 2",
+      "map": "Infernal Shrines",
+      "hero": "Blaze",
+      "talents": "4-2-1-2-3-2-2",
+      "win": false,
+      "troll": false,
+      "team": [
+        "Rehgar",
+        "Jaina",
+        "Raynor",
+        "Diablo"
+      ],
+      "opposing-team": [
+        "Uther",
+        "Mei",
+        "Greymane",
+        "Nazeebo",
+        "Tracer"
+      ]
+    },
+    {
+      "index": 11,
+      "start-time": "04:49:23",
+      "end-time": "05:01:21",
+      "rank": "Silver 2",
+      "map": "Braxis Holdout",
+      "hero": "Jaina",
+      "talents": "2-2-3-1-1",
+      "win": true,
+      "troll": false,
+      "team": [
+        "Kael'thas",
+        "Brightwing",
+        "Artanis",
+        "Diablo"
+      ],
+      "opposing-team": [
+        "Anub'arak",
+        "Li-Ming",
+        "Zul'jin",
+        "Varian",
+        "Lt. Morales"
+      ]
+    },
+    {
+      "index": 12,
+      "start-time": "05:09:05",
+      "end-time": "05:28:37",
+      "rank": "Silver 2",
+      "map": "Battlewfield of Eternity",
+      "hero": "Ana",
+      "talents": "3-2-2-1-3-3-4",
+      "win": false,
+      "troll": false,
+      "team": [
+        "Tyrande",
+        "Yrel",
+        "Alarak",
+        "Muradin"
+      ],
+      "opposing-team": [
+        "Greymane",
+        "Blaze",
+        "Rehgar",
+        "Sylvanas",
+        "Thrall"
+      ]
+    },
+    {
+      "index": 13,
+      "start-time": "",
+      "end-time": "",
+      "rank": "Silver 2",
+      "map": "",
+      "hero": "",
+      "talents": "",
+      "win": false,
+      "troll": false,
+      "team": [
+      ],
+      "opposing-team": [
       ]
     }
   ]
