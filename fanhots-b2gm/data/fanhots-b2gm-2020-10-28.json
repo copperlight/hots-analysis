@@ -100,6 +100,7 @@
       "talents": "3-3-2-1-3-3",
       "win": true,
       "troll": false,
+      "exemplar": true,
       "team": [
         "Rexxar",
         "Deckard",
